@@ -18,6 +18,8 @@ https://preview.uxpin.com/89197d8ab185db0334e15c58ec797fd33f56f1be#/pages/149929
 ## Consideraciones
 - Deberás inicializar el idioma de la landing en español haciendo uso del store de redux.
 - Dependiendo del store y el idioma deberás consultar la porción de textos correspondiente y guardar el lenguaje actual en el store.
+- Al darle clic generar un código de reserva aleatorio y mostrar un popup con el resumen de compra.
+- Al darle clic continuar en el popup, mostrar una thank you page
 
 ## Qué se califica
 - Entrega de versión desktop.
