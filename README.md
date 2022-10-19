@@ -14,6 +14,7 @@ https://preview.uxpin.com/89197d8ab185db0334e15c58ec797fd33f56f1be#/pages/149929
   - textos: https://raw.githubusercontent.com/javialcocer/test-json/main/data.json.
 - Deberás hacer uso de <a href="https://redux.js.org/">redux</a>.
 - Deberás usar <a href="https://tailwindcss.com/">tailwind</a> como libreria de css
+- Deberás usar la libreria react-device-detect para poder cargar la vista mobile o desktop según sea el caso https://www.npmjs.com/package/react-device-detect.
 
 ## Consideraciones
 - Deberás inicializar el idioma de la landing en español haciendo uso del store de redux.
