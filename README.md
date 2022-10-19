@@ -23,6 +23,7 @@ https://preview.uxpin.com/89197d8ab185db0334e15c58ec797fd33f56f1be#/pages/149929
 - Al darle clic continuar en el popup, mostrar una thank you page
 
 ## Qué se califica
+- Entregar liga de repositorio de tu prueba.
 - Entrega de versión desktop.
 - Entrega de versión mobile.
 - Uso de hooks.
